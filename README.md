@@ -10,8 +10,6 @@
 - Generate Bills
 
 
-**Copyright (c)** 2019-3019 Md. Omar Faruk
-
-## Go Through This Site Then You Will Know About This Site Properly.
+**Copyright (c)**
 
 **This is an Open source project. You can fork it.**
