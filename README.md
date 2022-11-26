@@ -1,4 +1,4 @@
-# Project: – Hospital Management System
+# Project: – ADMINISTRATION OF PUBLIC HEALTH CARE
 ### Hospital management system is a java project. Here, in this system, you can perform the actions that you usually see in the hospital You can do the following features:
 
 - Login
